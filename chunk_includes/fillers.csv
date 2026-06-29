@@ -1,0 +1,97 @@
+item,condition,Sentence_String,Is_Filler,Expected_Verb,Base_ID,Subject_Number,Local_Number,Local_Noun_Slot,Interference_Type,Subject_Liaison_Cue,Delayed_Repetition,Delay_ms,Go_Beep,Audio_Normalization_Note
+T008,Filler_SVO,Le pilote cherche la lampe.,True,cherche,FILLER,singular,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T013,Filler_SVO,Le médecin suit le roman.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T014,Filler_Neg,Le médecin ne suit pas les photos.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T015,Filler_Neg,Les journalistes ne aiment pas les radios.,True,aiment,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T017,Filler_Neg,Le pilote ne porte pas les romans.,True,porte,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T021,Filler_Neg,Les chercheuses ne cherchent pas les photos.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T023,Filler_Neg,Les pilotes ne trouvent pas les romans.,True,trouvent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T026,Filler_SVO,Les pilotes aiment le roman.,True,aiment,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T027,Filler_Neg,Les chercheuses ne aiment pas les lampes.,True,aiment,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T029,Filler_Neg,La musicienne ne cherche pas les lampes.,True,cherche,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T030,Filler_Neg,La journaliste ne cherche pas les lampes.,True,cherche,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T031,Filler_SVO,La journaliste porte la radio.,True,porte,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T033,Filler_Neg,Les pilotes ne portent pas les romans.,True,portent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T034,Filler_SVO,Le pilote suit le roman.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T037,Filler_Neg,Les médecins ne aiment pas les radios.,True,aiment,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T038,Filler_SVO,Les journalistes trouvent la lampe.,True,trouvent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T039,Filler_Neg,Les pilotes ne aiment pas les messages.,True,aiment,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T040,Filler_Neg,Le pilote ne suit pas les radios.,True,suit,FILLER,singular,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T041,Filler_Neg,Les voisins ne cherchent pas les photos.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T046,Filler_Neg,Les chercheuses ne portent pas les dossiers.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T047,Filler_SVO,Le voisin suit la lampe.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T051,Filler_SVO,Les musiciennes regardent le roman.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T052,Filler_Neg,Les journalistes ne aiment pas les dossiers.,True,aiment,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T053,Filler_SVO,Le voisin regarde la radio.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T056,Filler_SVO,La musicienne regarde la radio.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T058,Filler_Neg,Les musiciennes ne cherchent pas les lampes.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T060,Filler_Neg,Les pilotes ne suivent pas les dossiers.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T061,Filler_Neg,Le pilote ne suit pas les dossiers.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T062,Filler_Neg,Le voisin ne trouve pas les photos.,True,trouve,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T063,Filler_Neg,Les voisins ne portent pas les photos.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T064,Filler_Neg,Le médecin ne porte pas les photos.,True,porte,FILLER,singular,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T066,Filler_SVO,Le pilote porte la lampe.,True,porte,FILLER,singular,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T067,Filler_Neg,Les chercheuses ne regardent pas les dossiers.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T070,Filler_SVO,Les musiciennes aiment la radio.,True,aiment,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T073,Filler_Neg,Les pilotes ne suivent pas les photos.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T075,Filler_Neg,Les musiciennes ne trouvent pas les photos.,True,trouvent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T078,Filler_SVO,Les chercheuses regardent le dossier.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T081,Filler_Neg,Les pilotes ne cherchent pas les dossiers.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T082,Filler_SVO,Les journalistes suivent le roman.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T083,Filler_SVO,Les pilotes cherchent la photo.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T086,Filler_SVO,Le voisin porte la photo.,True,porte,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T087,Filler_SVO,Les musiciennes suivent le roman.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T089,Filler_Neg,Le pilote ne trouve pas les radios.,True,trouve,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T092,Filler_Neg,Les médecins ne suivent pas les radios.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T093,Filler_SVO,Le pilote suit la photo.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T094,Filler_Neg,Le pilote ne aime pas les messages.,True,aime,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T095,Filler_Neg,Les voisins ne trouvent pas les lampes.,True,trouvent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T096,Filler_SVO,La journaliste porte le dossier.,True,porte,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T097,Filler_Neg,Les voisins ne regardent pas les messages.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T100,Filler_SVO,Le voisin cherche le dossier.,True,cherche,FILLER,singular,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T102,Filler_SVO,La chercheuse suit le dossier.,True,suit,FILLER,singular,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T104,Filler_SVO,Les voisins portent la photo.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T106,Filler_SVO,Les médecins portent la photo.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T107,Filler_SVO,Les musiciennes portent la photo.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T110,Filler_SVO,Les chercheuses portent la radio.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T115,Filler_SVO,Les musiciennes cherchent la photo.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T117,Filler_SVO,Les médecins portent le roman.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T118,Filler_SVO,La journaliste regarde le dossier.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T119,Filler_Neg,Les chercheuses ne regardent pas les messages.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T123,Filler_SVO,Les chercheuses regardent la radio.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T124,Filler_SVO,Les pilotes regardent la radio.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T125,Filler_Neg,Les médecins ne portent pas les lampes.,True,portent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T126,Filler_SVO,Les voisins suivent le message.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T128,Filler_SVO,Le voisin regarde le dossier.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T129,Filler_SVO,Les journalistes portent le roman.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T130,Filler_SVO,Les voisins cherchent le message.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T132,Filler_Neg,La journaliste ne regarde pas les lampes.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T134,Filler_Neg,Les musiciennes ne regardent pas les romans.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T136,Filler_SVO,Les journalistes trouvent la radio.,True,trouvent,FILLER,plural,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T144,Filler_Neg,Les médecins ne portent pas les romans.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T145,Filler_Neg,Les médecins ne regardent pas les lampes.,True,regardent,FILLER,plural,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T146,Filler_Neg,La journaliste ne regarde pas les romans.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T148,Filler_Neg,La chercheuse ne cherche pas les radios.,True,cherche,FILLER,singular,NA,NA,NA,NA,True,1250,True,Use fillers to prevent structural habituation.
+T151,Filler_SVO,La chercheuse suit la radio.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T154,Filler_Neg,Les médecins ne portent pas les radios.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T155,Filler_SVO,Le pilote suit la radio.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T156,Filler_SVO,Les journalistes portent le message.,True,portent,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T157,Filler_SVO,La musicienne suit le message.,True,suit,FILLER,singular,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T158,Filler_Neg,La musicienne ne aime pas les lampes.,True,aime,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T161,Filler_Neg,Le médecin ne aime pas les lampes.,True,aime,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T162,Filler_Neg,La chercheuse ne trouve pas les messages.,True,trouve,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T163,Filler_Neg,Les journalistes ne portent pas les dossiers.,True,portent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T166,Filler_Neg,Les journalistes ne cherchent pas les radios.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T167,Filler_SVO,La chercheuse aime le roman.,True,aime,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T168,Filler_SVO,Le médecin aime la lampe.,True,aime,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T169,Filler_SVO, Le voisin aime la lampe.,True,aime,FILLER,singular,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T173,Filler_SVO,Les musiciennes trouvent le dossier.,True,trouvent,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T174,Filler_Neg,Les médecins ne suivent pas les photos.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T175,Filler_Neg,La chercheuse ne porte pas les dossiers.,True,porte,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T176,Filler_SVO,Les musiciennes suivent la lampe.,True,suivent,FILLER,plural,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T177,Filler_SVO,Les pilotes cherchent la radio.,True,cherchent,FILLER,plural,NA,NA,NA,NA,True,1750,True,Use fillers to prevent structural habituation.
+T181,Filler_Neg,La chercheuse ne suit pas les radios.,True,suit,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T182,Filler_SVO,La journaliste aime le dossier.,True,aime,FILLER,singular,NA,NA,NA,NA,True,2000,True,Use fillers to prevent structural habituation.
+T184,Filler_SVO,La chercheuse regarde le message.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
+T185,Filler_Neg,Le voisin ne regarde pas les lampes.,True,regarde,FILLER,singular,NA,NA,NA,NA,True,1500,True,Use fillers to prevent structural habituation.
+T192,Filler_Neg,Le médecin ne porte pas les messages.,True,porte,FILLER,singular,NA,NA,NA,NA,True,1000,True,Use fillers to prevent structural habituation.
